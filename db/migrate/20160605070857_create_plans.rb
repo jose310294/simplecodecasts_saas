@@ -5,7 +5,7 @@ class CreatePlans < ActiveRecord::Migration
       t.string :name
       t.decimal :price
       
-      t.timestamps
+      t.timestamps  
       
       
     end
